@@ -9,4 +9,4 @@ For info on the gene cluster: [Umezawa et al. Disproportionation of inorganic su
 For info on the HMMs: [Bell et al. Active anaerobic methane oxidation and sulfur disproportionation in the deep terrestrial subsurface. ISME J (2022).](https://www.nature.com/articles/s41396-022-01207-w)
 
 ## Denitrification
-nitrogen_hmms contains HMMs for annotation of denitrification genes in Clade II microorganisms.
+[nitrogen_hmms](https://github.com/emma-bell/metabolism/blob/main/nitrogen_hmms) contains HMMs for annotation of denitrification genes in Clade II microorganisms.
