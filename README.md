@@ -13,6 +13,6 @@ For info on the YTD gene cluster: [Umezawa et al. Disproportionation of inorgani
 For info on the HMMs: [Bell et al. Active anaerobic methane oxidation and sulfur disproportionation in the deep terrestrial subsurface. ISME J (2022).](https://www.nature.com/articles/s41396-022-01207-w)
 
 ## Denitrification
-[denitrification_hmms](https://github.com/emma-bell/metabolism/blob/main/nitrogen_hmms) contains HMMs for annotation of denitrification genes in members of the phylum _Bacillota_.
+[denitrification_hmms](denitrification_hmms) contains HMMs for annotation of denitrification genes in members of the phylum _Bacillota_.
 
 Denitrification HMMs can be used [individually](denitrification_hmms/3_HMMs_individual) or as a [denitrification gene set](denitrification_hmms/4_HMMs_concatenated). An example [script](denitrification_hmms/Denitrification_HMM_on_MAGs.sh) to run the HMM gene set on a directory of genome amino acid files (.faa) with [HMMER](http://hmmer.org) is included.
