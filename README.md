@@ -3,7 +3,7 @@ This repository contains hidden Markov models (HMMs) for annotating protein-codi
 
 ## HMM sets
 * [sulfur disproportionation](https://github.com/emma-bell/metabolism/tree/main/sulfur_hmms): _yedE-like, tusA, dsrE-like, chp1, chp2_
-* [denitrification](denitrification_hmms): _narGH, napA, nirK, nirS, cnor, qnor, bnor, snor, nosB, noszI, noszII_
+* [denitrification](denitrification_hmms): _narG, narH, napA, nirK, nirS, cnor, qnor, bnor, snor, nosB, nosZI, nosZII_
 
 ## Sulfur disproportionation
 [sulfur_hmms](https://github.com/emma-bell/metabolism/tree/main/sulfur_hmms) contains HMMs for annotation of genes in the YTD gene cluster putatively involved in sulfur disproportionation.
