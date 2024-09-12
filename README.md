@@ -1,4 +1,4 @@
-# Metabolism
+# Microbial metabolism in metagenomes
 This repository contains hidden Markov models (HMMs) for annotating protein-coding genes in microbial metagenomes and metagenome-assembled genomes.
 
 ## HMM sets
