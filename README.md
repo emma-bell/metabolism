@@ -17,4 +17,4 @@ For info on the HMMs: [Bell et al. Active anaerobic methane oxidation and sulfur
 
 Denitrification HMMs can be used [individually](denitrification_hmms/3_HMMs_individual) or as a [denitrification gene set](denitrification_hmms/4_HMMs_concatenated). An example [script](denitrification_hmms/Denitrification_HMM_on_MAGs.sh) to run the HMM gene set on a directory of genome amino acid files (.faa) with [HMMER](http://hmmer.org) is included.
 
-Preprint at: [Bell et al. Denitrification genotypes of endospore-forming _Bacillota_. bioRxiv (2024).](https://doi.org/10.1101/2024.05.17.594689)
+Publication at: [Bell et al. Denitrification genotypes of endospore-forming _Bacillota_. ISME Communications (2024).](https://doi.org/10.1093/ismeco/ycae107)
